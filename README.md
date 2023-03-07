@@ -30,6 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/91495430/223298142-b2609ba4-5192-4389-bfd3-b72a13190b4d.gif)
 
+[Screencast from 03-07-2023 09:38:14 AM.webm](https://user-images.githubusercontent.com/91495430/223504325-7542dea9-5a70-4cac-bcd0-8b08dd721e62.webm)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... EZGif
 
